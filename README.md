@@ -1,3 +1,3 @@
-# Unity-e-Arduino
+# Unity e Arduino
 
-Conexão Simples entre a Unity3D e uma placa Arduino
+Conexão Simples entre a Unity3D e uma placa Arduino.
